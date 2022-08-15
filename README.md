@@ -1,2 +1,2 @@
 # Neural-Artistic-Style-Transfer-With-Color-Presevation
-We take 2 images as input content &amp; style , extract main content and style respectively and combine them as one input As in <h title='original paper'>https://arxiv.org/pdf/1508.06576.pdf</h> but we also preserve main content color while combining where original paper doesn't.
+We take 2 images as input content &amp; style , extract main content and style respectively and combine them as one input As in <a href='https://arxiv.org/pdf/1508.06576.pdf'> original paper</a> but we also preserve main content color while combining where original paper doesn't.(<a href='https://arxiv.org/pdf/1606.05897.pdf'>Improved version paper</a>)
